@@ -1,0 +1,18 @@
+body{
+    background-color: beige;
+}
+h1 , h3{
+    color: #BF6666;
+}
+hr{
+    border-style: none;
+    border-top-color: orange;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 10%;
+}
+img{
+    border-radius: 50%;
+    height: 350px;
+    width: 300px;
+}
